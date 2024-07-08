@@ -31,8 +31,11 @@
 
 
 and more!
-
-- 🤝 We can stay connected on <a href="https://www.linkedin.com/in/bhargava-s-excel/">LinkedIn</a>
+<p>
+  <a href = "https://www.linkedin.com/in/bhargava-s-excel/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href = "https://github.com/bhar6ava" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+  <a href = "https://medium.com/@bargava.b65" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
+</p>
 
 
 ### **Stay Awesome!**
