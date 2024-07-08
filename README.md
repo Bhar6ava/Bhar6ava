@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hellooo, I'm Bhargava! 👋
 
-<!--
-**Bhar6ava/Bhar6ava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Senior Java Developer @ Discount Tire 📈
+- 💪 Nearly a decade (9+) years experience working in Java, Cloud and DevOps
+- Masters Engineering - Computer Science and Artificial Intelligence 🎓
+- 🌱Enhancing my technical skills while learning how businesses work!
+- Computer Science and Engineering graduate 
+- 💻 Here to have some fun with tech!
+-  🇮🇳 🇺🇸
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Creating & learning with:
+
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1E90FF)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
+![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
+![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
+![](https://img.shields.io/badge/Html-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1E90FF)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
+![](https://img.shields.io/badge/Spring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1E90FF)
+![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
+![](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
+
+
+and more!
+
+- 🤝 We can stay connected on <a href="https://www.linkedin.com/in/bhargava-s-excel/">LinkedIn</a>
+
+
+### **Stay Awesome!**
+
