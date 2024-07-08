@@ -33,9 +33,14 @@
 and more!
 
 <a href = "https://medium.com/@bargava.b65" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a> 
+
+
 📕 **Latest blog posts**
   
-<a href = "https://www.linkedin.com/in/bhargava-s-excel/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 🤝 **We can stay connected on**
+<a href = "https://www.linkedin.com/in/bhargava-s-excel/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
+
+
+🤝 **We can stay connected on**
 
 
 ### **Stay Awesome!**
