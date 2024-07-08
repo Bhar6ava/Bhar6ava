@@ -1,7 +1,7 @@
 ## Hellooo, I'm Bhargava! 👋
 
 - Senior Java Developer @ Discount Tire 📈
-- 💪 Nearly a decade (9+) years experience working in Java, Cloud and DevOps
+- 💪 Nearly a decade (9+) long experience working in Java, Cloud and DevOps
 - Masters Engineering - Computer Science and Artificial Intelligence 🎓
 - 🌱Enhancing my technical skills while learning how businesses work!
 - Computer Science and Engineering graduate 
