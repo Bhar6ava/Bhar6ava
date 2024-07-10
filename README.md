@@ -32,7 +32,7 @@
 
 and more!
 
-- 🤝 We can stay connected on <a href="https://www.linkedin.com/in/bhargava-s-excel/">LinkedIn</a>
+- 🤝 We can stay connected on <a href="https://www.linkedin.com/in/bhargava-s-success/">LinkedIn</a>
 
 ### **Stay Awesome!**
 
