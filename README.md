@@ -1,10 +1,10 @@
 ## Hellooo, I'm Bhargava! 👋
 
-- Senior Java Developer @ The Home Depot 📈
-- 💪 Nearly a decade (9+) long experience working in Java, Cloud and DevOps
+- Senior Developer @ The Home Depot 📈
+- 💪 Nearly a decade (9+) long experience working in Full Stack, Cloud and DevOps
 - Masters Engineering - Computer Science and Artificial Intelligence 🎓
-- 🌱Enhancing my technical skills while learning how businesses work!
-- Computer Science and Engineering graduate 
+- 🌱Enhancing my technical expertise while learning how businesses work!
+- Bachelors - Computer Science and Engineering graduate 
 - 💻 Here to have some fun with tech!
 -  🇮🇳 🇺🇸
 
