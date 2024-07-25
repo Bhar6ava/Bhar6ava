@@ -1,7 +1,7 @@
 ## Hellooo, I'm Bhargava! 👋
 
 - Senior Developer @ The Home Depot 📈
-- 💪 Nearly a decade (9+) long experience working in Full Stack, Cloud and DevOps
+- 💪 Nearly a decade long experience working in Full Stack, Cloud and DevOps
 - Masters Engineering - Computer Science and Artificial Intelligence 🎓
 - 🌱Enhancing my technical expertise while learning how businesses work!
 - Bachelors - Computer Science and Engineering graduate 
